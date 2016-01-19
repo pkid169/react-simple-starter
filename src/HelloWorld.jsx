@@ -4,7 +4,7 @@ export default class HelloWorld extends Component {
 
 	render() {
 		return (
-			<h1>Hello World 10</h1>
+			<h1>Hello World</h1>
 		);
 	}
 
